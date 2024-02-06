@@ -1,0 +1,1 @@
+In this example, we've replaced the Logistic Regression model with a Support Vector Machine (SVM) using the 'linear' kernel. SVM is a powerful algorithm for classification tasks and can be effective in various scenarios. You can explore different kernels and hyperparameters based on your specific needs and dataset characteristics.
